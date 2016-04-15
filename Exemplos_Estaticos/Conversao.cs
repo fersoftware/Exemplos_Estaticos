@@ -10,7 +10,7 @@ namespace Exemplos_Estaticos
     {
         public static string ConverteMoeda(float dinheiro)
         {
-            return;
+            return "R$ " + dinheiro;
         }
     }
 }

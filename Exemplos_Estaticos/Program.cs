@@ -12,6 +12,9 @@ namespace Exemplos_Estaticos
         {
             // não posso instanciar esse objeto
             //Conversao objConv = new Conversao();
+            Console.WriteLine(Conversao.ConverteMoeda(5.66f));
+            Console.ReadKey();
+
         }
     }
 }
