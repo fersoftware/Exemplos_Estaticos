@@ -8,6 +8,9 @@ namespace Exemplos_Estaticos
 {
     static class Conversao
     {
-
+        public static string ConverteMoeda(float dinheiro)
+        {
+            return;
+        }
     }
 }
